@@ -1,2 +1,2 @@
 # js30
-javascript30练习
+ js30练习
